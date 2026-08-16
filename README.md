@@ -8,6 +8,7 @@ My academic training established a foundation in numerical methods, scientific c
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square\&logo=go\&logoColor=white)
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square\&logo=pytorch\&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square\&logoColor=black)
 ![Reinforcement Learning](https://img.shields.io/badge/Reinforcement%20Learning-555555?style=flat-square)
 
