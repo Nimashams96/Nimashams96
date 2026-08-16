@@ -1,5 +1,9 @@
 I build intelligent, data-intensive software systems with a strong foundation in machine learning, full-stack engineering, distributed systems, and production infrastructure.
 
+My background combines software engineering with computational and physical sciences. I hold an **M.Sc. in Physical Chemistry** and a **B.Sc. in Pure Chemistry**, from the **University of Tehran**.
+
+My academic training established a foundation in numerical methods, scientific computing, mathematical modeling, and data analysis. That foundation has extended into applied AI, machine learning, data-intensive applications, full-stack development, distributed systems, networking, DevOps, and production engineering.
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square\&logo=pytorch\&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square\&logo=apachespark\&logoColor=white)
@@ -22,9 +26,3 @@ I build intelligent, data-intensive software systems with a strong foundation in
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square\&logo=flutter\&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square\&logo=dart\&logoColor=white)
-
-## Background
-
-My background combines software engineering with computational and physical sciences. I hold an **M.Sc. in Physical Chemistry** and a **B.Sc. in Pure Chemistry**, from the **University of Tehran**.
-
-My academic training established a foundation in numerical methods, scientific computing, mathematical modeling, and data analysis. That foundation has extended into applied AI, machine learning, data-intensive applications, full-stack development, distributed systems, networking, DevOps, and production engineering.
